@@ -13,7 +13,7 @@ TVTK docs: https://tvtk.readthedocs.io/en/latest/
    :target: https://opensource.org/licenses/BSD-3-Clause
    :alt: BSD 3 Clause
 
-TOM DUMMY COMMIT. TOM DUMMY COMMIT V2. V6
+TOM DUMMY COMMIT. TOM DUMMY COMMIT V2. V7
 
 Vision
 ======
